@@ -29,7 +29,7 @@ void programEnd()
 
 int main()
 {
-    const int error_unknown_operation = 228;
+    const int error_unknown_command = 228;
     const int error_division_by_zero = 1337;
     const int error_incorrect_variable_type = 1565;
 
@@ -79,12 +79,12 @@ int main()
     {
         std::cout
         << "Error 228." << std::endl
-        << "I Don't Know Such An Operation." << std::endl;
+        << "I Don't Know Such An Command." << std::endl;
 
         separation();
         programEnd();
 
-        return error_unknown_operation;
+        return error_unknown_command;
     }
 
     double number1;
