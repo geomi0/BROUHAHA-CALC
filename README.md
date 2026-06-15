@@ -1,9 +1,6 @@
 # BROUHAHA-CALC
 
-This is a calculator.
-C++
-I wrote it entirely myself. No AI.
-Don't be jealous.
+This is a C++ calculator. I wrote it entirely myself. No AI. Don't be jealous.
 
 ## How to run? (Windows, PowerShell)
 
